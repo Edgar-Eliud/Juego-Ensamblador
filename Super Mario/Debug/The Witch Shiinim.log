@@ -1,0 +1,4 @@
+﻿  Assembling main.asm...
+main.asm(411): warning A6004: procedure argument or local not referenced : hPrevInst
+main.asm(411): warning A6004: procedure argument or local not referenced : cmdLine
+  The Witch Shiinim.vcxproj -> D:\edgar\Desktop\FCFM\Semestre 4\Lenguaje ensamblador\PIA\Edgar Eliud\Debug\The Witch Shiinim.exe
